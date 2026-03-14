@@ -1,4 +1,4 @@
-package Dotalk.Dotalk.domain.entity;
+package Dotalk.Dotalk.domain.User.entity;
 
 import jakarta.persistence.*;
 import lombok.Builder;
